@@ -1,0 +1,12 @@
+# ninja log v5
+63	136	6988533931088929	Vaje_23.exe	3cdf7fda06c013b5
+8	82	6988531919390282	CMakeFiles/Vaje_23.dir/vaja1.c.obj	b241ff7c7746e6f6
+1	174	6988537180630066	build.ninja	6c3584df9b02fdc9
+1	61	6988533930364471	CMakeFiles/Vaje_23.dir/main.c.obj	5cc5ddef1accf188
+6	62	6988533930384632	CMakeFiles/Vaje_23.dir/vaja2.c.obj	f2b317d951e520cd
+6	286	6988537240847275	CMakeFiles/Vaje_23.dir/main.c.obj	fc399c568afa7f85
+30	298	6988537241015499	CMakeFiles/Vaje_23.dir/vaja2.c.obj	8758d6ff870b0578
+19	324	6988537241315752	CMakeFiles/Vaje_23.dir/vaja1.c.obj	218e3ba4d7fff7f
+324	540	6988537243350411	Vaje_23.exe	3cdf7fda06c013b5
+3	99	6988537293969038	CMakeFiles/Vaje_23.dir/main.c.obj	fc399c568afa7f85
+100	230	6988537295199268	Vaje_23.exe	3cdf7fda06c013b5

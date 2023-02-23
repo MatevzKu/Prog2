@@ -1,0 +1,3 @@
+C:/Cloud/cCode/Vaje2/cmake-build-debug/CMakeFiles/Vaje_23.dir
+C:/Cloud/cCode/Vaje2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Cloud/cCode/Vaje2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
