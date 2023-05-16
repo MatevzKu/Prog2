@@ -5,6 +5,11 @@
 #include "vaja4.h"
 #include "vaja5.h"
 #include "vaja6.h"
+#include "vaja7.h"
+#include "vaja8.h"
+#include "vaja9.h"
+#include "vaja10.h"
+#include "vaja11.h"
 #include <stdlib.h>
 #include <math.h>
 
@@ -16,10 +21,12 @@ int main() {
     //vajaTri();
     //vajaStiri();
     //vajaPet();
-    vaja6();
-
-
-
+    //vaja6();
+    //vaja7();
+    //vaja8();
+    //vajaDevet();
+    //vajaDeset();
+    vajaEnajst();
 
     return 0;
 }
