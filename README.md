@@ -1,6 +1,7 @@
 # Avditorne vaje pri predmetu Programiranje 2 / Programiranje Mikrokrmilnikov (na osnovi jezika C)
 
 **Avtor :** Matevž Kunaver
+
 **Leto :** 2023
 
 V Sklopu letošnjih (šolsko leto 2022/23) avditornih vaj sem uvedel tudi github zbirko vseh vaj, ki smo jih pokazali v živo. Zaradi narave programskega okolja C ni bilo možno, da bi vsako vajo implementiral kot ločeno c datoteko (torej da bi vsaka vaja imela svojo main funkcijo). Namesto tega je vsaka vaja predstavljena kot ločena knjižnica, ki jo kličemo iz *main.c*.
